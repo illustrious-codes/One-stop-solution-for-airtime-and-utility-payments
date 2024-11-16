@@ -68,3 +68,23 @@ section {
   align-items: center;
   margin-top: 180px;
 }
+
+.Trusted_p {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(154, 233, 154);
+  padding: 35px;
+}
+
+.Trusted_img {
+  opacity: 0.4;
+}
+
+.box {
+  height: 30vh;
+  width: 25%;
+  background-color: white;
+  border: 2px solid green;
+  border-radius: 10px;
+}
