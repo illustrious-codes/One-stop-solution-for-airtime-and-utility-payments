@@ -9,3 +9,4 @@ def fibonacci(length):
 
 num = int(input("How long do you want to run this ? "))
 fibonacci(num)
+print("Happy New Year Famz")
