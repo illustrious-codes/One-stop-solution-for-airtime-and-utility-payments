@@ -28,7 +28,8 @@ nav {
 
 .nav_logo {
   display: flex;
-  gap: 30px;
+  gap: 40px;
+  margin-left: 10px;
 }
 
 .nav_btn {
