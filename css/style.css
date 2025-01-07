@@ -20,7 +20,7 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(27, 27, 27);
+  background-color: rgba(27, 27, 27, 0.925);
   color: white;
   height: 7.9vh;
   padding: 10px;
