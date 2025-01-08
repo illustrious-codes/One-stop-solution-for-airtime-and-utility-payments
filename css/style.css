@@ -45,12 +45,12 @@ header {
 }
 
 .ls_btn {
-  background-color: white;
-  color: green;
+  /* background-color: white; */
+  color: rgb(1, 65, 1);
   /* padding: 18px; */
-  height: 40px;
-  width: 100px;
-  border: 2px solid green;
+  height: 55px;
+  width: 120px;
+  border: 2px solid rgb(1, 65, 1);
   border-radius: 100px;
   font-weight: 700;
 }
@@ -58,10 +58,11 @@ header {
 .header_2 {
   display: flex;
   font-weight: 900;
-  font-size: 18px;
+  font-size: 20px;
   justify-content: center;
   align-items: center;
-  gap: 15px;
+  gap: 30px;
+  color: rgb(90, 87, 87);
 }
 
 section {
