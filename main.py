@@ -1,0 +1,1 @@
+print("What ever you do consistency with your life became your habit")
