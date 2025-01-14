@@ -39,4 +39,4 @@ def fibonacci(length):
         print(num, end=" ")
 
 num = int(input("Enter number range  "))
-fibonacci(num)
+# fibonacci(num)
