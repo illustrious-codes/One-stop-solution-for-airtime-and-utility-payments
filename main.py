@@ -29,14 +29,14 @@ age = input("How old are you    ")
 # print(get_age())
 
 
-def fibonacci(length):
-    initial_status = 1
-    initial_state = 1
-    for i in range(length):
-        initial_state = initial_state + initial_status
-        initial_status = initial_state - initial_status
-        num = initial_status
-        print(num, end=" ")
+# def fibonacci(length):
+#     initial_status = 1
+#     initial_state = 1
+#     for i in range(length):
+#         initial_state = initial_state + initial_status
+#         initial_status = initial_state - initial_status
+#         num = initial_status
+#         print(num, end=" ")
 
-num = int(input("Enter number range  "))
+# num = int(input("Enter number range  "))
 # fibonacci(num)
