@@ -1,14 +1,14 @@
-# print("What ever you do consistency with your life became your habit")
-# print(20 % 6)
-# number = 44
-# number2 = str(number)
-# print(type(number2))
-# print(f"I am David, in am {number2} years old")
-# bag = "Cas"
-# watch = "Elun Musk"
-# food = "Cas"
+print("What ever you do consistency with your life became your habit")
+print(20 % 6)
+number = 44
+number2 = str(number)
+print(type(number2))
+print(f"I am David, in am {number2} years old")
+bag = "Cas"
+watch = "Elun Musk"
+food = "Cas"
 
-# age = input("How old are you    ")
+age = input("How old are you    ")
 
 # if age == 40:
 #     print(age + 10)
