@@ -42,9 +42,9 @@
 # fibonacci(num)
 
 
-year = int(input("Enter a year..  "))
-if year % 100 == 0 // year % 4 == 0:
-    print("This year is a Leap Year")
-else:
-    print("This Year is not a leap year")
+# year = int(input("Enter a year..  "))
+# if year % 100 == 0 // year % 4 == 0:
+#     print("This year is a Leap Year")
+# else:
+#     print("This Year is not a leap year")
 # print(2000 % 4)
