@@ -52,4 +52,4 @@
 print("The name of my  school is ROn-Sol Happy Day International School")
 print("Dorcas is the class captain of JSS 1 class")
 # print("The name of my  school is ROn-Sol Happy Day International School")
-# print("Dorcas is the class captain of JSS 1 class")
+print("Dorcas is the class captain of JSS 1 class")
