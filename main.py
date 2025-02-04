@@ -57,3 +57,6 @@ print("28th of January 2025")
 print("January 30 2025")
 print("January 31 2025")
 print("The Lord has been so good to me in all ways")
+
+
+print("Hello world, \n Welcome to Februar \n my age is",30)
