@@ -58,7 +58,6 @@ print("January 30 2025")
 print("January 31 2025")
 # print("The Lord has been so good to me in all ways")
 
-# name = 34
+name = 34
 
 print(f"Hello world, \n Welcome to Februar \n my age is {name}")
-saved
