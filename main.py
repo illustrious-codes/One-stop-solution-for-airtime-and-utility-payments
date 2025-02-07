@@ -61,3 +61,4 @@ print("January 31 2025")
 name = 34
 
 print(f"Hello world, \n Welcome to Februar \n my age is {name}")
+print("Lord, give me the strength to keep coding more everyday")
