@@ -63,4 +63,4 @@ name = 34
 print(f"Hello world, \n Welcome to Februar \n my age is {name}")
 print("Lord, give me the strength to keep coding more everyday")
 print("Lord, give me the strength to keep coding more every night")
-
+print("My name is Celine, i am a girl")
