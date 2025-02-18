@@ -68,4 +68,4 @@ print("Thank God is Tuesday")
 print("i do frames")
 print("Thank God is Friday")
 print("Today was actually a great day for me")
-one minute more
+print("one minute more")
